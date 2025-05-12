@@ -1,0 +1,4 @@
+3
+DFW|CDG|T
+DFW|CDG|C
+LAX|CDG|C

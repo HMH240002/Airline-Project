@@ -1,0 +1,18 @@
+Current Date and Time (Central): 2025-04-27 20:29:20
+User: xxDM777
+
+Flight 1: DFW, CDG (Time)
+Path 1: DFW -> CDG. Time: 600 Cost: 1200.00
+Path 2: DFW -> CLT -> CDG. Time: 625 Cost: 1115.00
+Path 3: DFW -> ORD -> CDG. Time: 630 Cost: 1075.00
+
+Flight 2: DFW, CDG (Cost)
+Path 1: DFW -> JFK -> CDG. Time: 635 Cost: 1040.00
+Path 2: DFW -> ORD -> CDG. Time: 630 Cost: 1075.00
+Path 3: DFW -> CLT -> CDG. Time: 625 Cost: 1115.00
+
+Flight 3: LAX, CDG (Cost)
+Path 1: LAX -> CDG. Time: 655 Cost: 950.00
+Path 2: LAX -> DFW -> JFK -> CDG. Time: 820 Cost: 1390.00
+Path 3: LAX -> DFW -> ORD -> CDG. Time: 815 Cost: 1425.00
+
